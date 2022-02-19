@@ -56,4 +56,4 @@ hold.addEventListener('click', function () {
   }
   Switchplayer();
 });
-//reset.addEventListener('click', init);
+reset.addEventListener('click', init);
